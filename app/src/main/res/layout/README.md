@@ -4,7 +4,9 @@ A beautifully designed Android expense tracking app built with
 Kotlin, Room Database, and MVVM Architecture.
 
 ## 📱 Screenshots
-(Add screenshots here after uploading)
+| Dashboard | Add Expense | Summary |
+|---|---|---|
+| ![Dashboard](screenshots/dashboard.png) | ![Add](screenshots/add.png) | ![Summary](screenshots/summary.png) |
 
 ## ✨ Features
 
